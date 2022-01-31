@@ -1,4 +1,4 @@
-package com.customer;
+package com.clients.fraud;
 
 import lombok.Data;
 

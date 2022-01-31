@@ -1,5 +1,6 @@
 package com.fraud;
 
+import com.clients.fraud.FraudResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
