@@ -159,7 +159,7 @@ Per fixare nella configurazione di RestTemplate usi @LoadBalanced (https://www.s
 
 Feign makes writing java http clients easier -> https://github.com/OpenFeign/feign   https://spring.io/projects/spring-cloud-openfeign#overviewv
 
-
+blablavla
 
 
 
